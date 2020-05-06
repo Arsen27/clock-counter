@@ -60,7 +60,9 @@
 
     margin-top: -2px;
 
-    background: var(--clock-arrow-color)
+    background: var(--clock-arrow-color);
+
+    transition: .5s;
 }
 
 .second-arrow {
